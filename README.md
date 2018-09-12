@@ -1,3 +1,3 @@
 # TechnicalProblems
 
-This repo contains code from technical interview problems
+This repo contains code from practice technical interview problems
